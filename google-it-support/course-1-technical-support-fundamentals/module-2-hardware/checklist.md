@@ -1,6 +1,6 @@
 # Checklist — Module 2: Hardware
 
-- [ ] Introduction to computer hardware
+- [x] Introduction to computer hardware
 - [ ] Programs, CPU and memory
 - [ ] CPU architecture (supplementary reading)
 - [ ] The modern computer
