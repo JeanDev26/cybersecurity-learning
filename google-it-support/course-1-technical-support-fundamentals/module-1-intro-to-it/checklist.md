@@ -1,0 +1,25 @@
+# Checklist — Module 1: Introduction to IT
+
+- [x] Introduction to the program
+- [x] What is IT?
+- [x] What does an IT Support Specialist do?
+- [x] Course introduction
+- [x] Certificate introduction
+- [x] Entry survey (not graded)
+- [x] Reflection: Your path to IT support
+- [x] From abacus to data analysis
+- [x] The path to modern computers
+- [x] Pioneers in computing and IT
+- [x] Kevin: Career path in IT
+- [x] Computer language
+- [x] Character encoding
+- [x] Binary basics
+- [x] Logic gates (supplementary)
+- [x] Counting in binary
+- [x] Binary conversion
+- [x] Binary practice tasks
+- [x] Abstraction
+- [x] Computer architecture overview
+- [x] Practical task: Computer architecture
+- [x] Final glossary of Module 1
+- [x] Module 1 Challenge (graded – 82.5%)
