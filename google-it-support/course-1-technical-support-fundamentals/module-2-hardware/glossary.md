@@ -28,3 +28,29 @@
   - Shared across all cores in a multi-core CPU.  
   - Much larger but slower compared to L1 and L2.  
   - Improves performance by reducing main memory (RAM) access.  
+
+  ## 🔌 Ports and Connectors
+
+- **USB (Universal Serial Bus):**  
+  Standard connection used for peripherals like keyboards, mice, external drives.  
+  - USB-A: traditional rectangular connector.  
+  - USB-C: smaller, reversible, supports power delivery and fast data transfer.  
+
+- **Ethernet (RJ-45):**  
+  Port used to connect computers to wired networks. Provides faster and more stable connection than Wi-Fi.  
+
+- **HDMI (High-Definition Multimedia Interface):**  
+  Transmits high-quality video and audio from the computer to monitors, TVs, and projectors.  
+
+- **DisplayPort:**  
+  Similar to HDMI but often used in monitors for higher resolutions and refresh rates.  
+
+- **Audio Jack (3.5mm):**  
+  Port for headphones, microphones, and speakers.  
+
+- **VGA (Video Graphics Array):**  
+  Older video port used for monitors and projectors. Largely replaced by HDMI and DisplayPort.  
+
+- **Thunderbolt:**  
+  High-speed port (often using USB-C shape) for data transfer, video output, and power delivery.  
+
