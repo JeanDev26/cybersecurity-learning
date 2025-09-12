@@ -5,6 +5,10 @@
 - **Motherboard:** the main circuit board that connects all components.
 - **PSU (Power Supply Unit):** converts electricity from outlet to usable power for the PC.
 - **I/O Devices:** peripherals for input (keyboard, mouse) and output (monitor, printer).
+- **Desktop Computer:**  
+  A personal computer designed to fit on or under a desk.  
+  Typically consists of a separate monitor, keyboard, mouse, and a tower or case containing the main hardware components (CPU, RAM, storage, motherboard, power supply).  
+  Desktops usually allow easier hardware upgrades compared to laptops.
 
 ---
 
