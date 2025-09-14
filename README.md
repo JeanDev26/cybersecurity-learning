@@ -21,8 +21,8 @@ The goal is to build a strong foundation and specialize in **Cybersecurity & Clo
 
 - Google IT Support Professional Certificate:
   - Course 1 – Technical Support Fundamentals
-    - [x] Module 1: Intro to IT
-    - [x] Module 2: Hardware (in progress)
+    - [x] Module 1: Intro to IT (82.5%)
+    - [x] Module 2: Hardware (97.5%)
     - [ ] Module 3: Operating Systems
     - [ ] Module 4: Networking
     - [ ] Module 5: Software
