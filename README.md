@@ -7,7 +7,7 @@ The goal is to build a strong foundation and specialize in **Cybersecurity & Clo
 
 ## 📚 Courses and Certifications (in progress)
 
-- [x] Google IT Support Professional Certificate (Course 1 – Module 2 in progress)
+- [x] Google IT Support Professional Certificate (Course 1 – Module 3 in progress)
 - [ ] Google IT Automation with Python
 - [ ] Google Cybersecurity Professional Certificate
 - [ ] IBM Cybersecurity Analyst
