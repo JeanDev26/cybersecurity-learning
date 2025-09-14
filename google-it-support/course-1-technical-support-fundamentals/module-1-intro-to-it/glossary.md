@@ -6,3 +6,4 @@
 - **Firmware:** Software permanently stored on hardware.
 - **Bit/Byte:** Smallest unit of information; 8 bits = 1 byte.
 - **Hexadecimal:** Number system with base 16, often used in computing.
+- **Programs:** Instructions that tell the computer what to do.

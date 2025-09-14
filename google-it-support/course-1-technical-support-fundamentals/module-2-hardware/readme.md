@@ -14,7 +14,8 @@ from the **Google IT Support Professional Certificate**.
 ---
 
 ## ✅ Status
-- Module 2 in progress ⏳
+- Module 2 completed ✔️  
+- Final Challenge completed with **97.5%** grade  
 
 ---
 

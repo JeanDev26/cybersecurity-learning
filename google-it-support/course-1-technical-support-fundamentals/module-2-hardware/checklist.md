@@ -1,19 +1,19 @@
 # Checklist — Module 2: Hardware
 
 - [x] Introduction to computer hardware
-- [ ] Programs, CPU and memory
-- [ ] CPU architecture (supplementary reading)
-- [ ] The modern computer
-- [ ] RAM and storage devices (HDDs, SSDs)
-- [ ] Motherboards and system buses
-- [ ] Power supply units (PSU)
-- [ ] Mobile devices, batteries and charging systems
-- [ ] Input/output devices, peripherals and ports
-- [ ] Connectors and projectors (supplementary)
-- [ ] BIOS basics
-- [ ] Hardware assembly (installing CPU, RAM, graphics, peripherals)
-- [ ] Troubleshooting and repairing mobile devices
-- [ ] Hardware components practice tasks
-- [ ] Computer assembly (practical task – 20min)
-- [ ] Module 2 challenge: Components and hardware of the computer (graded – 50min)
-- [ ] Final glossary of terms (Module 2)
+- [x] Programs, CPU and memory
+- [x] CPU architecture (supplementary reading)
+- [x] The modern computer
+- [x] RAM and storage devices (HDDs, SSDs)
+- [x] Motherboards and system buses
+- [x] Power supply units (PSU)
+- [x] Mobile devices, batteries and charging systems
+- [x] Input/output devices, peripherals and ports
+- [x] Connectors and projectors (supplementary)
+- [x] BIOS basics
+- [x] Hardware assembly (installing CPU, RAM, graphics, peripherals)
+- [x] Troubleshooting and repairing mobile devices
+- [x] Hardware components practice tasks
+- [x] Computer assembly (practical task – 20min)
+- [x] Module 2 challenge: Components and hardware of the computer (graded – 50min) (graded – 97.5%)
+- [x] Final glossary of terms (Module 2)
