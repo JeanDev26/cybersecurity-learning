@@ -1,4 +1,4 @@
-# Summary — Module 1: Introduction to IT
+# 📑 Summary — Module 1: Introduction to IT
 
 This module provides an overview of **Information Technology (IT)**, its history, role in organizations, and the basics of computer systems.  
 It introduces key concepts such as binary numbers, abstraction, and computer architecture.

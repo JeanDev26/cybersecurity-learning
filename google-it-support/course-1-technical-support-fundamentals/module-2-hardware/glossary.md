@@ -1,4 +1,4 @@
-# Glossary — Module 2: Hardware
+# 📘 Glossary — Module 2: Hardware
 
 - **Desktop Computer:**  
   A personal computer designed to fit on or under a desk.  
@@ -100,6 +100,8 @@
   - Much larger but slower compared to L1 and L2.  
   - Improves performance by reducing main memory (RAM) access.  
 
+---
+
 - **Motherboard:** the main circuit board that connects all components.
 
 - **Chipset:**  
@@ -139,6 +141,8 @@
 - **Thunderbolt:**  
   High-speed port (often using USB-C shape) for data transfer, video output, and power delivery.  
 
+---
+
 - **Mobile Devices:**  
   Portable computing devices such as smartphones, tablets, and laptops.  
   They integrate CPU, memory, storage, battery, and display in compact form factors.  
@@ -154,6 +158,8 @@
   One full cycle of charging a battery from 0% to 100%.  
   Partial charges (e.g., 50% → 100% and later 50% → 100%) count as one full cycle when combined.  
   Typical smartphone batteries are rated for ~300–500 cycles before noticeable capacity loss, while laptops often handle ~500–1000 cycles.
+
+---
 
 - **Projector:**  
   An output device that projects visual content (images, videos, presentations) onto a larger surface, usually a screen or wall.  
@@ -175,6 +181,8 @@
   A small memory chip on the motherboard that stores BIOS/UEFI configuration settings such as system time, boot order, and hardware parameters.  
   Powered by a small battery (CMOS battery), it retains these settings when the computer is turned off.  
   If the battery fails, settings reset to defaults and the system clock may lose time.
+
+### Different Types of screens
 
 - **LCD (Liquid Crystal Display):**  
   Flat-panel display technology that uses liquid crystals and a backlight to produce images. Widely used in monitors, TVs, and laptops.  

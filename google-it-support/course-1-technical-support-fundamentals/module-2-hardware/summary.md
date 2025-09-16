@@ -1,4 +1,4 @@
-# Summary — Module 2: Hardware
+# 📑 Summary — Module 2: Hardware
 
 This module introduces the **fundamentals of computer hardware** and how different components interact to form a complete system.  
 It covers the CPU, memory, storage devices, motherboard, power supplies, peripherals and input/output devices, as well as mobile hardware.

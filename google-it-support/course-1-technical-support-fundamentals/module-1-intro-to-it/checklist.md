@@ -1,4 +1,4 @@
-# Checklist — Module 1: Introduction to IT
+# ✅ Checklist — Module 1: Introduction to IT
 
 - [x] Introduction to the program
 - [x] What is IT?

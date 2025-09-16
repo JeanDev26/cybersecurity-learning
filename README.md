@@ -40,7 +40,7 @@ The goal is to build a strong foundation and specialize in **Cybersecurity & Clo
   - **course-1-technical-support-fundamentals/**
     - module-1-intro-to-it/
     - module-2-hardware/
-    - module-3-operating-systems/
+    - module-3-operating-system/
     - module-4-networking/
     - module-5-software/
     - module-6-troubleshooting/

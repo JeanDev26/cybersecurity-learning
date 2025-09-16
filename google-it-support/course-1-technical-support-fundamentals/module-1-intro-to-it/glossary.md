@@ -1,4 +1,4 @@
-# Glossary — Module 1: Intro to IT
+# 📘 Glossary — Module 1: Intro to IT
 
 - **IT (Information Technology):** Use of systems to store, retrieve, and send information.
 - **Hardware:** Physical components of a computer (CPU, RAM, HDD).
