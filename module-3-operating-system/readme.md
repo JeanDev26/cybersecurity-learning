@@ -12,7 +12,7 @@ This module introduces the foundations of **Operating Systems (OS)**, their comp
 ---
 
 ## ✅ Status
-- Module 3: *In progress*  
+- Module 3: *Complete*  
 - Final challenge pending: **Installing and Using Operating Systems**
 
 ### 🔹 Topics covered:
