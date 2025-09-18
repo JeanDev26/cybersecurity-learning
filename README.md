@@ -5,15 +5,21 @@ The goal is to build a strong foundation and specialize in **Cybersecurity & Clo
 
 ---
 
-## 📚 Courses and Certifications (in progress)
+## 📚 Courses and Certifications Roadmap
 
-- [x] Google IT Support Professional Certificate (Course 1 – Module 3 in progress)
-- [ ] Google IT Automation with Python
-- [ ] Google Cybersecurity Professional Certificate
-- [ ] IBM Cybersecurity Analyst
-- [ ] AWS Cloud Essentials
-- [ ] Google Cloud Security
-- [ ] CompTIA Security+ (planned)
+1. [x] Google IT Support Professional Certificate (Course 1 – Module 4 in progress)
+2. [ ] Google IT Automation with Python
+3. [ ] Google Cybersecurity Professional Certificate
+4. [ ] IBM Cybersecurity Analyst
+5. [ ] AWS Cloud Essentials
+6. [ ] Google Cloud Security
+7. [ ] CompTIA Network+ (planned)
+8. [ ] CompTIA Security+ (planned)
+9. [ ] AWS Certified Cloud Practitioner (planned)
+10. [ ] AWS Certified Security – Specialty (planned)
+11. [ ] Google Cloud Professional Security Engineer (planned)
+12. [ ] CISSP – Certified Information Systems Security Professional (long-term)
+
 
 ---
 
@@ -23,7 +29,7 @@ The goal is to build a strong foundation and specialize in **Cybersecurity & Clo
   - Course 1 – Technical Support Fundamentals
     - [x] Module 1: Intro to IT (82.5%)
     - [x] Module 2: Hardware (97.5%)
-    - [ ] Module 3: Operating Systems
+    - [x] Module 3: Operating Systems (90%)
     - [ ] Module 4: Networking
     - [ ] Module 5: Software
     - [ ] Module 6: Troubleshooting
