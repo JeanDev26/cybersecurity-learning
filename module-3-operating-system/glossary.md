@@ -196,3 +196,10 @@ A **Virtual Machine (VM)** is a software-based emulation of a physical computer.
 - Uses the **APFS (Apple File System)** for efficient storage management.  
 - Comes with built-in applications like Safari, Finder, and Spotlight.  
 - Popular among creative professionals for design, video editing, and music production.  
+
+### Qwiklabs
+**Qwiklabs** is an online learning platform that provides hands-on labs for cloud computing and IT skills.  
+- Allows users to practice in real cloud environments (Google Cloud, AWS) without needing a personal account or setup.  
+- Offers temporary credentials to complete guided labs and exercises.  
+- Commonly used in IT training programs to teach cloud services, operating systems, and troubleshooting.  
+- Helps learners gain practical experience with real-world tools and scenarios.  
