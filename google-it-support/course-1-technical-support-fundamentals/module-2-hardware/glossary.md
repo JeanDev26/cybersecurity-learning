@@ -208,6 +208,8 @@
 - **MicroLED:**  
   Next-gen self-emissive technology where each pixel is a microscopic LED. Combines OLED quality with higher brightness, durability, and no burn-in. Currently expensive and limited to prototypes/premium displays.  
 
+---
+
 - **Data Sizes (Bits and Bytes):**  
   Fundamental units of digital information.  
   - 1 bit = smallest data unit (0 or 1).  
