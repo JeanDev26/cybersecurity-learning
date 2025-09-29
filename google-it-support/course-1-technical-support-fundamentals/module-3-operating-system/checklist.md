@@ -33,4 +33,4 @@
 - [x] Exemplar: Creating a folder with Windows (Reading • 8 min)
 - [x] Creating a Folder with Linux (Ungraded App Item • 1h)
 - [x] Exemplar: Creating a folder with Linux (Reading • 8 min)
-- [x] Module 3 challenge: Installing and Using Operating Systems (Graded Assignment • 50 min) (graded - 90%)
+- [x] Module 3 challenge: Installing and Using Operating Systems (Graded Assignment • 50 min) ✅ Score: 90%

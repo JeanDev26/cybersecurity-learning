@@ -22,4 +22,4 @@
 - [x] Computer architecture overview
 - [x] Practical task: Computer architecture
 - [x] Final glossary of Module 1
-- [x] Module 1 Challenge (graded – 82.5%)
+- [x] Module 1 Challenge ✅ Score: 82.5%

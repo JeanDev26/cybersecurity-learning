@@ -20,4 +20,4 @@
 - [x] Heather Adkins: keeping hackers out (Video • 2 min)  
 - [x] Glossary terms from course 1, module 4 (Reading • 4 min)  
 - [x] Learner Story: Melinda (Video • 40 sec)  
-- [x] Module 4 Challenge: Networking (Graded Assignment • 50 min) (graded 95%)
+- [x] Module 4 Challenge: Networking (Graded Assignment • 50 min) ✅ Score: 95%

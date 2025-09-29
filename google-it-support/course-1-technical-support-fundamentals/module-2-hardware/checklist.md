@@ -15,5 +15,5 @@
 - [x] Troubleshooting and repairing mobile devices
 - [x] Hardware components practice tasks
 - [x] Computer assembly (practical task – 20min)
-- [x] Module 2 challenge: Components and hardware of the computer (graded – 50min) (graded – 97.5%)
+- [x] Module 2 challenge: Components and hardware of the computer (graded – 50min) ✅ Score: 97.5%
 - [x] Final glossary of terms (Module 2)

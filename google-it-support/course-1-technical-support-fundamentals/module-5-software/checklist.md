@@ -21,4 +21,4 @@
 - [x] Example: Installing, Updating, and Removing Software on Windows (Reading • 8 min)  
 - [x] Installing, Updating, and Removing Software on Linux (Ungraded App • 1h)  
 - [x] Example: Installing, Updating, and Removing Software on Linux (Reading • 8 min)  
-- [x] Module 5 Challenge: Interacting with Software (Graded Assignment • 50 min) (graded 90%)
+- [x] Module 5 Challenge: Interacting with Software (Graded Assignment • 50 min) ✅ Score: 90%
