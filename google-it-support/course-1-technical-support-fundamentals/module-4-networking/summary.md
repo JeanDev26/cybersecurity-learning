@@ -1,4 +1,7 @@
-# 📑 Summary – Module 4: Networking
+# 📑 Summary — Module 4 Networking
+
+> Status: **Completed** — concise notes for quick review.
+
 
 ## 1. Basics of Networking
 - Networking connects devices to share data and resources.  

@@ -1,4 +1,7 @@
-# 📘 Glossary – Module 4: Networking
+# 📘 Glossary — Module 4 Networking
+
+> Short definitions you can quote in interviews. See also: [examples](examples.md).
+
 
 ### Computer Network
 A **computer network** is a collection of interconnected devices (computers, servers, smartphones, IoT devices) that communicate and share resources.  

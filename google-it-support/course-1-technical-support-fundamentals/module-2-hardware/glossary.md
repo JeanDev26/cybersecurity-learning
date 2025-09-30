@@ -1,4 +1,7 @@
-# 📘 Glossary — Module 2: Hardware
+# 📘 Glossary — Module 2 Hardware
+
+> Short definitions you can quote in interviews. See also: [examples](examples.md).
+
 
 - **Desktop Computer:**  
   A personal computer designed to fit on or under a desk.  

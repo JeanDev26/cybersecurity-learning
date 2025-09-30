@@ -1,5 +1,8 @@
 # 📘 Glossary — Module 1: Intro to IT
 
+> Short definitions you can quote in interviews. See also: [examples](examples.md).
+
+
 - **IT (Information Technology):** Use of systems to store, retrieve, and send information.
 - **Hardware:** Physical components of a computer (CPU, RAM, HDD).
 - **Software:** Programs that run on hardware.

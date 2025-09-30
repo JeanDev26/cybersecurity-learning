@@ -1,4 +1,6 @@
-# ✅ Checklist — Module 2: Hardware
+# ✅ Checklist — Module 2 Hardware  
+**Status:** ✔️ Completed
+
 
 - [x] Introduction to computer hardware
 - [x] Programs, CPU and memory

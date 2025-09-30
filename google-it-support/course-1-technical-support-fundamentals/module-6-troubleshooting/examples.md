@@ -1,4 +1,5 @@
-# 📂 Examples – Module 6: Troubleshooting
+# 🧪 Examples — Module 6 Troubleshooting
+
 
 ## Example 1: 404 Not Found
 When trying to visit `https://example.com/oldpage`, you receive:

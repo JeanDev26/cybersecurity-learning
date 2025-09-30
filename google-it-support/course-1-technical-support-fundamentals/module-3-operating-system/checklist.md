@@ -1,4 +1,6 @@
-# ✅ Checklist – Module 3: Operating System
+# ✅ Checklist — Module 3 Operating System  
+**Status:** ✔️ Completed
+
 
 - [x] Module introduction (Video • 2 min)
 - [x] Components of an Operating System (Video • 5 min)

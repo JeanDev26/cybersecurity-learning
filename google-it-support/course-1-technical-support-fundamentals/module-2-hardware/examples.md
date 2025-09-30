@@ -1,4 +1,5 @@
-# Examples — Module 2: Hardware
+# 🧪 Examples — Module 2 Hardware
+
 
 ## 🖥️ Computer Assembly Checklist
 

@@ -1,4 +1,6 @@
-# ✅ Module 4 – Networking
+# ✅ Checklist — Module 4 Networking  
+**Status:** ✔️ Completed
+
 
 ## Progress Checklist
 

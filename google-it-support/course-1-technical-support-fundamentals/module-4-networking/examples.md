@@ -1,4 +1,5 @@
-# 📂 Examples – Module 4: Networking
+# 🧪 Examples — Module 4 Networking
+
 
 ## Example: Client-Server Interaction
 - A user opens **Google Chrome** and enters `www.example.com`.  

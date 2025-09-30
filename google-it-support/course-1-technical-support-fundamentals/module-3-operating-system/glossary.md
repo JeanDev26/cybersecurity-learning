@@ -1,4 +1,7 @@
-# 📘 Glossary – Module 3: Operating System
+# 📘 Glossary — Module 3 Operating System
+
+> Short definitions you can quote in interviews. See also: [examples](examples.md).
+
 
 ### Operating System (OS)
 System software that manages hardware resources and provides services for applications.  

@@ -1,4 +1,7 @@
-# 📑 Summary – Module 6: Troubleshooting
+# 📑 Summary — Module 6 Troubleshooting
+
+> Status: **Completed** — concise notes for quick review.
+
 
 ## 1. Introduction
 - Troubleshooting is the process of diagnosing and resolving technical issues.  

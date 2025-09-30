@@ -1,4 +1,7 @@
-# 📖 Glossary – Module 5: Software
+# 📘 Glossary — Module 5 Software
+
+> Short definitions you can quote in interviews. See also: [examples](examples.md).
+
 
 ### Software
 A set of instructions, programs, or data that tell a computer how to perform specific tasks.  

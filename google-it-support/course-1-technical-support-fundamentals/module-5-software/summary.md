@@ -1,4 +1,7 @@
-# 📑 Summary – Module 5: Software
+# 📑 Summary — Module 5 Software
+
+> Status: **Completed** — concise notes for quick review.
+
 
 ## 1. Introduction to Software
 - Software is a set of instructions that tells the computer how to perform tasks.  

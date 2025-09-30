@@ -1,4 +1,5 @@
-# 📂 Examples – Module 5: Software
+# 🧪 Examples — Module 5 Software
+
 
 ## Installing Git on Windows
 1. Download the installer from the official website: [git-scm.com](https://git-scm.com).  

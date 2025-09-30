@@ -1,4 +1,7 @@
-# 📑 Summary – Module 3: Operating System
+# 📑 Summary — Module 3 Operating System
+
+> Status: **Completed** — concise notes for quick review.
+
 
 ## Overview
 Module 3 focuses on the fundamentals of **Operating Systems (OS)**. It explains how OS components work together to manage hardware and software resources, as well as how different types of operating systems (desktop, mobile, and virtualized environments) are installed, configured, and maintained.

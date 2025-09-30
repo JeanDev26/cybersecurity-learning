@@ -1,4 +1,7 @@
-# 📖 Glossary – Module 6: Troubleshooting
+# 📘 Glossary — Module 6 Troubleshooting
+
+> Short definitions you can quote in interviews. See also: [examples](examples.md).
+
 
 ### 404 Not Found
 An error message you might see on websites that have been moved or deleted.  

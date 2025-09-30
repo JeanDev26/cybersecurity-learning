@@ -1,4 +1,6 @@
-# ✅ Module 6 – Troubleshooting
+# ✅ Checklist — Module 6 Troubleshooting  
+**Status:** ✔️ Completed
+
 
 ## Progress Checklist
 

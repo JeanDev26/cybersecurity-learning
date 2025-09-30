@@ -1,4 +1,5 @@
-# Examples — Module 1: Intro to IT
+# 🧪 Examples — Module 1: Intro to IT
+
 
 Here are some practical examples and exercises from Module 1.
 
