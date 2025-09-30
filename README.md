@@ -7,7 +7,7 @@ The goal is to build a strong foundation and specialize in **Cybersecurity & Clo
 
 ## 📚 Courses and Certifications Roadmap
 
-1. [x] Google IT Support Professional Certificate (Complete)
+1. [x] Google IT Support Professional Certificate (course 2 module 1 in progress)
 2. [ ] Google IT Automation with Python
 3. [ ] Google Cybersecurity Professional Certificate
 4. [ ] IBM Cybersecurity Analyst
